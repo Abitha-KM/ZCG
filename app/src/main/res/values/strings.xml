@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ZCG</string>
+    <string name="categories">Categories</string>
+    <string name="error">Error</string>
+</resources>
